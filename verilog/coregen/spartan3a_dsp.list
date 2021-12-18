@@ -1,0 +1,9 @@
+# device specific IP blocks
+# Spartan3A_DSP
+./coregen/Spartan3A_DSP/xfft_v7_1.v
+./coregen/Spartan3A_DSP/complex_multiplier.v
+./coregen/Spartan3A_DSP/viterbi_v7_0.v
+./coregen/Spartan3A_DSP/div_gen_v3_0.v
+./coregen/Spartan3A_DSP/deinter_lut.v
+./coregen/Spartan3A_DSP/atan_lut.v
+./coregen/Spartan3A_DSP/rot_lut.v

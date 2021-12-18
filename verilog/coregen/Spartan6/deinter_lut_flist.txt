@@ -1,0 +1,16 @@
+# Output products list for <deinter_lut>
+_xmsgs/pn_parser.xmsgs
+deinter_lut/blk_mem_gen_v7_3_readme.txt
+deinter_lut/doc/blk_mem_gen_v7_3_vinfo.html
+deinter_lut/doc/pg058-blk-mem-gen.pdf
+deinter_lut.asy
+deinter_lut.gise
+deinter_lut.mif
+deinter_lut.ngc
+deinter_lut.v
+deinter_lut.veo
+deinter_lut.xco
+deinter_lut.xise
+deinter_lut_flist.txt
+deinter_lut_xmdf.tcl
+summary.log

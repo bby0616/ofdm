@@ -1,0 +1,16 @@
+# Output products list for <rot_lut>
+_xmsgs/pn_parser.xmsgs
+rot_lut/blk_mem_gen_v7_3_readme.txt
+rot_lut/doc/blk_mem_gen_v7_3_vinfo.html
+rot_lut/doc/pg058-blk-mem-gen.pdf
+rot_lut.asy
+rot_lut.gise
+rot_lut.mif
+rot_lut.ngc
+rot_lut.v
+rot_lut.veo
+rot_lut.xco
+rot_lut.xise
+rot_lut_flist.txt
+rot_lut_xmdf.tcl
+summary.log

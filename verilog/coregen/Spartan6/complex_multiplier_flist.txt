@@ -1,0 +1,14 @@
+# Output products list for <complex_multiplier>
+_xmsgs/pn_parser.xmsgs
+complex_multiplier/doc/cmpy_ds291.pdf
+complex_multiplier/doc/cmpy_v3_1_vinfo.html
+complex_multiplier.asy
+complex_multiplier.gise
+complex_multiplier.ngc
+complex_multiplier.v
+complex_multiplier.veo
+complex_multiplier.xco
+complex_multiplier.xise
+complex_multiplier_flist.txt
+complex_multiplier_readme.txt
+complex_multiplier_xmdf.tcl

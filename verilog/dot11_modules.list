@@ -1,0 +1,33 @@
+# add xilinx device core library
+-y ./Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/
+-y ./Xilinx/14.7/ISE_DS/ISE/verilog/src/XilinxCoreLib/
+
+# openofdm library
+dot11.v
+sync_short.v
+power_trigger.v
+moving_avg.v
+delay_sample.v
+complex_to_mag.v
+divider.v
+complex_to_mag_sq.v
+sync_long.v
+stage_mult.v
+ofdm_decoder.v
+phase.v
+rotate.v
+equalizer.v
+complex_mult.v
+calc_mean.v
+deinterleave.v
+demodulate.v
+descramble.v
+bits_to_bytes.v
+delayT.v
+ht_sig_crc.v
+rate_to_idx.v
+crc32.v
+
+# uhd specific libraries
+./uhd/setting_reg.v
+./uhd/ram_2port.v

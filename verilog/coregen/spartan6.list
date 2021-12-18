@@ -1,0 +1,11 @@
+# device specific IP blocks
+# Spartan-6
+./coregen/Spartan6/xfft_v7_1.v
+./coregen/Spartan6/complex_multiplier.v
+./coregen/Spartan6/viterbi_v7_0.v
+./coregen/Spartan6/div_gen_v3_0.v
+./coregen/Spartan6/deinter_lut.v
+#./coregen/Spartan6/deinter_lut_2048.v
+./coregen/Spartan6/atan_lut.v
+./coregen/Spartan6/rot_lut.v
+./coregen/Spartan6/sample_sync_fifo.v

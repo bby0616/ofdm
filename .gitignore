@@ -1,0 +1,4 @@
+*.out
+*.vcd
+/venv/
+/sim_out/
